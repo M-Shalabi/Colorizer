@@ -1,0 +1,1 @@
+A colorized dark theme inspired from Atom's One Dark Pro theme by binaryify with a different color scheme & additional cool stuff!

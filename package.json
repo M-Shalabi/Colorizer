@@ -1,0 +1,32 @@
+{
+    "name": "colorizer",
+    "displayName": "colorizer",
+    "description": "A colorized dark theme inspired from Atom's One Dark Pro theme by binaryify with a different color scheme & additional cool stuff!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "publisher": "MohammedShalabi",
+    "author":{
+        "name": "Mohammed Shalabi",
+        "email": "Moham.Shalabi@gmail.com",
+        "url": "https://github.com/M-Shalabi"
+    },
+    "icon":"icons/icons8-color-switch-96.png",
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Colorizer",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Colorizer-color-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/M-Shalabi/Colorizer.git"
+    }
+}
