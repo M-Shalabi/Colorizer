@@ -2,7 +2,7 @@
     "name": "colorizer",
     "displayName": "colorizer",
     "description": "A colorized dark theme inspired from Atom's One Dark Pro theme by binaryify with a different color scheme & additional cool stuff!",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.68.0"
     },
